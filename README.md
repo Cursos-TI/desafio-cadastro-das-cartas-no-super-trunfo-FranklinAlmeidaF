@@ -1,6 +1,6 @@
 # Desafio Super Trunfo - Países - Cadastro das Cartas - Atualizado: 21/02
 
-Bem-vindo ao desafio "Super Trunfo - Países"! No jogo Super Trunfo, os jogadores comparam os atributos das cartas para determinar a mais forte. O tema deste Super Trunfo é "Países", onde você comparará os atributos das cidades.
+Bem-vindo ao desafio "Super Trunfo - Cidades"! No jogo Super Trunfo, os jogadores comparam os atributos das cartas para determinar a mais forte. O tema deste Super Trunfo é "Países", onde você comparará os atributos das cidades.
 
 A empresa MateCheck contratou você para desenvolver a parte inicial do jogo, que consiste no cadastro das cartas.
 
@@ -88,7 +88,7 @@ No nível Mestre, você implementará a comparação entre duas cartas e o cálc
 
 ## 🏁 Conclusão
 
-Ao concluir qualquer um dos níveis, você terá dado um passo importante no desenvolvimento do Super Trunfo - Países. Boa sorte e divirta-se programando!
+Ao concluir qualquer um dos níveis, você terá dado um passo importante no desenvolvimento do Super Trunfo - Cidades. Boa sorte e divirta-se programando!
 
 Equipe de Ensino - MateCheck
 content_copy
